@@ -6,3 +6,11 @@ C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject
 C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.exe
 C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.pdb
 C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.exe.config
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.exe.config
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\iban\OneDrive\Desktop\My Projects\Personal\jie-learns-c-sharp\MyFirstProject\bin\Debug\MyFirstProject.pdb

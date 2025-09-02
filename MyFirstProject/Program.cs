@@ -15,8 +15,8 @@ namespace MyFirstProject
             string name = "Ivan";
 
             // numeric data types
-            int age = 23;
-            Console.WriteLine("My name is "+ name + "and I am "+ age +"years old");
+            int myAge = 23;
+            Console.WriteLine("My name is "+ name + "and I am "+ myAge + "years old");
 
             long bigNumber = 10000L;
 
@@ -62,21 +62,46 @@ namespace MyFirstProject
             int age = Convert.ToInt32(textAge);
             Console.WriteLine(age);
 
-            string bigNumber = "-90000000";
-            long bigNumber = Convert.ToInt64(bigNumber);
-            Console.WriteLine(bigNumber);
+            string bigNumberString = "-90000000";
+            long bigNumberConverted = Convert.ToInt64(bigNumberString);
+            Console.WriteLine(bigNumberConverted);
 
             string negativeString = "-1.24";
-            double negative = Convert.ToDouble(negativeString);
-            Console.WriteLine(negative);
+            double negativeConverted = Convert.ToDouble(negativeString);
+            Console.WriteLine(negativeConverted);
 
             string precisionString = "5.99";
-            float precision = Convert.ToSingle(precisionString);
-            Console.WriteLine(precision);
+            float precisionConverted = Convert.ToSingle(precisionString);
+            Console.WriteLine(precisionConverted);
 
             string moneyString = "5.60";
-            decimal money = Convert.ToDecimal(moneyString);
-            Console.WriteLine(moneyString);
+            decimal moneyConverted = Convert.ToDecimal(moneyString);
+            Console.WriteLine(moneyConverted);
+
+
+            //boolean data type
+            bool trueValue = true;
+            bool falseValue = false;
+            Console.WriteLine(trueValue);   
+            Console.WriteLine(falseValue);
+
+            bool isMale = true;
+            bool isFalse = false;
+            Console.WriteLine(isMale);
+            Console.WriteLine(isFalse);
+
+
+            // operations
+            int newAge = 23; 
+            Console.WriteLine(newAge++);
+            Console.Write(newAge--);
+
+
+            Console.WriteLine(newAge * 3);
+
+            double numWithDecimal = 15.0;
+            Console.WriteLine(numWithDecimal/2);
+
 
             Console.ReadLine();
         }
