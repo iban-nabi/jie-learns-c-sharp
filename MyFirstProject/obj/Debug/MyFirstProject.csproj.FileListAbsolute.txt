@@ -1,0 +1,8 @@
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\Iban\Desktop\jie-learns-c-sharp\MyFirstProject\obj\Debug\MyFirstProject.exe.config
