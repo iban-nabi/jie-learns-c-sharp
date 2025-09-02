@@ -111,7 +111,16 @@ namespace MyFirstProject
             var brother = "Joe";
 
             // constant
-            const dogName = "Sky";
+            const string dogName = "Sky";
+
+
+            const int vat = 20;
+            const double percentVAT = vat / 100D;
+            int balance = 1000;
+
+            Console.WriteLine(balance * percentVAT);
+
+
 
 
             Console.ReadLine();
