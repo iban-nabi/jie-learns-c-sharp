@@ -47,10 +47,38 @@ namespace MyFirstProject
             Console.Write(y);
             Console.WriteLine(z);
 
-            Console.ReadLine();
+
 
             // text data types
+            string myFriend = "aba";
+            char letter = 'A';
 
+            Console.WriteLine(myFriend);   
+            Console.WriteLine(letter);
+
+
+            //convert string to numeric data
+            string textAge = "-23";
+            int age = Convert.ToInt32(textAge);
+            Console.WriteLine(age);
+
+            string bigNumber = "-90000000";
+            long bigNumber = Convert.ToInt64(bigNumber);
+            Console.WriteLine(bigNumber);
+
+            string negativeString = "-1.24";
+            double negative = Convert.ToDouble(negativeString);
+            Console.WriteLine(negative);
+
+            string precisionString = "5.99";
+            float precision = Convert.ToSingle(precisionString);
+            Console.WriteLine(precision);
+
+            string moneyString = "5.60";
+            decimal money = Convert.ToDecimal(moneyString);
+            Console.WriteLine(moneyString);
+
+            Console.ReadLine();
         }
     }
 }
