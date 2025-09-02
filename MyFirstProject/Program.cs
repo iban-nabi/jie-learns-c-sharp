@@ -102,6 +102,17 @@ namespace MyFirstProject
             double numWithDecimal = 15.0;
             Console.WriteLine(numWithDecimal/2);
 
+            int i = 0;
+            Console.WriteLine(++i);
+            Console.WriteLine(i++);
+
+
+            // variable
+            var brother = "Joe";
+
+            // constant
+            const dogName = "Sky";
+
 
             Console.ReadLine();
         }
